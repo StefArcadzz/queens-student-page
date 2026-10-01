@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Stefano Arcadi</title>
+    <link rel="stylesheet" href="style.css"/> <!-- do not change this line -->
+  </head>
+  <body>
+    <header>
+      <h1>Stefano Arcadi</h1>
+    </header>
+
+    <main>
+      <!-- ====== ABOUT SECTION (edit the text) ====== -->
+      <h2>About Me</h2>
+      <p>I am a student at Queen's School of Computing.
+        I'm interested in sports like soccer and hockey.
+        I also enjoy video games like Rocket League, Counter-Strike, Rainbow Six Siege, and Minecraft.
+        I also love watching shows and spending time with my friends.</p>
+
+      <!-- ====== PHOTO (upload me.jpg to repo root, then update the src below) ====== -->
+      <img src="me.jpg" alt="Stefano Arcadi portrait" width="240" height="300" />
+
+      <!-- ====== PROJECTS/COURSES (add or rename items to courses instead of projects) ====== -->
+      <h2>Courses</h2>
+      <ul>
+        <li>Hlth 101 — Social Determinants of Health, which explores how factors like income, environment, and community shape health.</li>
+        <li>Cisc 102 — Discrete Structures I (Math), where I learn the logic and problem-solving ideas behind computer science.</li>
+        <li>Cisc 121 — Intro to Computer Science I, which introduces programming concepts and how software is built.</li>
+        <li>Arth 121 — Intro to Global Art Histories, which looks at art from different cultures and time periods.</li>
+        <li>Ascx 150 — Learning Working Digital World, which focuses on digital skills and how technology is used in everyday life.</li>
+      </ul>
+
+      <!-- ====== CONTACT (update your links) ====== -->
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:25rpr3@queensu.ca">25rpr3@queensu.ca</a></p>
+      <p>LinkTree: <a href="https://linktr.ee/StefArcadi" target="_blank" rel="noopener noreferrer">https://linktr.ee/StefArcadi</a></p>
+    </main>
+  </body>
+</html>
