@@ -10,14 +10,14 @@
     <header>
       <h1>Stefano Arcadi</h1>
     </header>
-`<!-- peer review edit , better class description needed -->`.
+
     <main>
       <!-- ====== ABOUT SECTION (edit the text) ====== -->
       <h2>About Me</h2>
       <p>I am a student at Queen's School of Computing.
-        I'm interested in Sports like Soccer, and Hockey.
-        I also enjoy videogames like Rocket Leauge, Counter Strike, Rainbow Six Seige, Minecraft.
-        I also love to watch shows and hangout with my friends <!-- replace with interests -->.</p>
+        I'm interested in sports like soccer and hockey.
+        I also enjoy video games like Rocket League, Counter-Strike, Rainbow Six Siege, and Minecraft.
+        I also love watching shows and spending time with my friends.</p>
 
       <!-- ====== PHOTO (upload me.jpg to repo root, then update the src below) ====== -->
       <img src="me.jpg" alt="Stefano Arcadi portrait" width="240" height="300" />
@@ -35,7 +35,7 @@
       <!-- ====== CONTACT (update your links) ====== -->
       <h2>Contact</h2>
       <p>Email: <a href="mailto:25rpr3@queensu.ca">25rpr3@queensu.ca</a></p>
-      <p>LinkTree: <a href="https://linktr.ee/StefArcadi">https://linktr.ee/StefArcadi</a></p>
+      <p>LinkTree: <a href="https://linktr.ee/StefArcadi" target="_blank" rel="noopener noreferrer">https://linktr.ee/StefArcadi</a></p>
     </main>
   </body>
 </html>
